@@ -14,3 +14,6 @@
 # limitations under the License.
 
 """ The Stanford Natural Language Inference (SNLI) Corpus"""
+from __future__ import absolute_import
+from __furtur__ import division
+from __future__ import print_function
